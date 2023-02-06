@@ -2,7 +2,7 @@
 
 ## Welcome! 👋
 
-- Live Site URL:https://asmaa-elfatayry.github.io/Clone-Twitter-tailwind/index.html/
+
 
 ### Built with
 
